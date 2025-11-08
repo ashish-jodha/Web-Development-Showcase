@@ -5,12 +5,6 @@
 
 ---
 
-<p align="center">
-  <img src="assets/images/preview.png" alt="Spotify Clone Preview" width="80%">
-</p>
-
----
-
 ## 🪄 About the Project  
 
 This project replicates the user interface of the Spotify web player.  
