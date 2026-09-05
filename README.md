@@ -1,4 +1,4 @@
-# 🌐 HTML, CSS & JS Projects
+# 🌐 HTML, CSS & JS Projects 
 
 A collection of frontend projects built while learning core web development fundamentals.
 
